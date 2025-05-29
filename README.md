@@ -1,6 +1,6 @@
 # 👋 Welcome to My GitHub!
 
-![GitHub Banner](https://via.placeholder.com/1200x300?text=Welcome+to+My+GitHub+Profile)  
+![GitHub Banner]([https://via.placeholder.com/1200x300?text=Welcome+to+My+GitHub+Profile](https://cdn.pixabay.com/photo/2017/08/05/11/24/logo-2582757_1280.png))  
 *A U.S. Navy veteran turned software developer, navigating the world of full-stack development!*
 
 ---
