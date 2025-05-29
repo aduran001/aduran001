@@ -1,6 +1,6 @@
 # 👋 Welcome to My GitHub!
 
-![GitHub Banner](https://cdn.pixabay.com/photo/2017/08/05/11/24/logo-2582757_1280.png) 
+<img src="https://cdn.pixabay.com/photo/2017/08/05/11/24/logo-2582757_1280.png" alt="GitHub Banner" width="800">g) 
 *A U.S. Navy veteran turned software developer, navigating the world of full-stack development!*
 
 ---
