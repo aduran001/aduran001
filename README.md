@@ -41,6 +41,12 @@ I am committed to mastering the full-stack ecosystem, contributing to open-sourc
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat&logo=github)](https://github.com/aduran001)  
 
 💡 *Let's build something great together!* 🚀
+
+<div style="background: linear-gradient(to right, #1e3c72, #2a5298); padding: 20px; border-radius: 10px; text-align: center;">
+    <h1 style="color: white;">🚀 Welcome to My GitHub!</h1>
+    <img src="https://cdn.pixabay.com/photo/2017/08/05/11/24/logo-2582757_1280.png" alt="GitHub Banner" width="500">
+    <p style="color: white;">A U.S. Navy veteran turned software developer, navigating the world of full-stack development! ⚡</p>
+</div>
 <!--
 **aduran001/aduran001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
