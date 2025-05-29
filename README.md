@@ -24,7 +24,7 @@ I am committed to mastering the full-stack ecosystem, contributing to open-sourc
 ---
 
 ## 📫 **Connect With Me**
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/YOUR_PROFILE)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/albert-duran-78bb622a8/) 
 [![Portfolio](https://img.shields.io/badge/Portfolio-View-orange?style=flat&logo=webflow)](https://YOUR_PORTFOLIO_LINK)  
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat&logo=github)](https://github.com/aduran001)  
 
