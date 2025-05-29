@@ -1,25 +1,30 @@
 # 👋 Welcome to My GitHub!
 
-<img src="https://cdn.pixabay.com/photo/2017/08/05/11/24/logo-2582757_1280.png" alt="GitHub Banner" width="800">g) 
+<div align="center">
+    <img src="https://cdn.pixabay.com/photo/2017/08/05/11/24/logo-2582757_1280.png" alt="GitHub Banner" width="600">
+</div>
+
 *A U.S. Navy veteran turned software developer, navigating the world of full-stack development!*
 
 ---
 
 ## 💻 **Tech Journey**
-✅ **Certified in HTML & CSS** – Solid foundation in front-end development.  
-📚 **Currently learning** JavaScript, MySQL, and Node.js to expand my skill set.  
-🔥 Passionate about building efficient, scalable, and innovative applications.  
+- ✅ **Certified in HTML & CSS** – Solid foundation in front-end development.
+- 📚 **Currently learning** JavaScript, MySQL, and Node.js to expand my skill set.
+- 🔥 Passionate about building efficient, scalable, and innovative applications.
 
 ---
 
 ## 🚀 **GitHub Stats**
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aduran001&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aduran001&layout=compact&theme=radical)  
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=aduran001&show_icons=true&theme=radical" alt="GitHub Stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aduran001&layout=compact&theme=radical" alt="Top Languages">
+</div>
 
 ---
 
 ## 🎯 **Goals & Aspirations**
-I am committed to mastering the full-stack ecosystem, contributing to open-source projects, and continuously improving my coding skills. My goal is to create impactful applications and collaborate with like-minded developers.  
+I am committed to mastering the full-stack ecosystem, contributing to open-source projects, and continuously improving my coding skills. My goal is to create impactful applications and collaborate with like-minded developers.
 
 ---
 
