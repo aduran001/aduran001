@@ -1,18 +1,34 @@
-## Hi there 👋
-After proudly serving in the U.S. Navy, I am now transitioning into the world of software development, with a focus on full-stack development. My military experience has instilled in me discipline, adaptability, and a problem-solving mindset—qualities that I now apply to coding and development.
+# 👋 Welcome to My GitHub!
 
-## 💻 Tech Journey
-- ✅ **Certified in HTML & CSS** – Solid foundation in front-end web development.
-- 📚 **Currently learning** JavaScript, MySQL, and Node.js to expand my skill set.
-- 🔥 Passionate about building efficient, scalable, and innovative applications.
+![GitHub Banner](https://via.placeholder.com/1200x300?text=Welcome+to+My+GitHub+Profile)  
+*A U.S. Navy veteran turned software developer, navigating the world of full-stack development!*
 
-## 🚀 Goals & Aspirations
-I am committed to mastering the full-stack ecosystem, contributing to open-source projects, and continuously improving my coding skills. My goal is to create impactful applications and collaborate with like-minded developers.
+---
 
-## 📫 Connect With Me
-[LinkedIn]([#](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile) | [GitHub](https://github.com/aduran001)
+## 💻 **Tech Journey**
+✅ **Certified in HTML & CSS** – Solid foundation in front-end development.  
+📚 **Currently learning** JavaScript, MySQL, and Node.js to expand my skill set.  
+🔥 Passionate about building efficient, scalable, and innovative applications.  
 
-Let's build something great together! 🚀
+---
+
+## 🚀 **GitHub Stats**
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aduran001&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aduran001&layout=compact&theme=radical)  
+
+---
+
+## 🎯 **Goals & Aspirations**
+I am committed to mastering the full-stack ecosystem, contributing to open-source projects, and continuously improving my coding skills. My goal is to create impactful applications and collaborate with like-minded developers.  
+
+---
+
+## 📫 **Connect With Me**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/YOUR_PROFILE)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-View-orange?style=flat&logo=webflow)](https://YOUR_PORTFOLIO_LINK)  
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat&logo=github)](https://github.com/aduran001)  
+
+💡 *Let's build something great together!* 🚀
 <!--
 **aduran001/aduran001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
