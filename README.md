@@ -1,10 +1,10 @@
-# 👋 Welcome to My GitHub!
+# 🚀 Welcome Aboard My GitHub!
 
 <div align="center">
-    <img src="https://cdn.pixabay.com/photo/2017/08/05/11/24/logo-2582757_1280.png" alt="GitHub Banner" width="600">
+    <img src="https://cdn.pixabay.com/photo/2017/08/05/11/24/logo-2582757_1280.png" alt="GitHub Banner" width="500">
 </div>
 
-*A U.S. Navy veteran turned software developer, navigating the world of full-stack development!*
+🛠️ **Veteran turned Full-Stack Developer** | 🖥️ Passionate about Coding & Innovation  
 
 ---
 
