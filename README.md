@@ -1,30 +1,27 @@
 # 👋 Welcome to My GitHub!
 
 <div align="center">
-    <img src="https://cdn.pixabay.com/photo/2017/08/05/11/24/logo-2582757_1280.png" alt="GitHub Banner" width="600">
+    <img src="https://cdn.pixabay.com/photo/2017/08/05/11/24/logo-2582757_1280.png" alt="GitHub Banner" width="650">
 </div>
 
-*A U.S. Navy veteran turned software developer, navigating the world of full-stack development!*
+> 🚢 *U.S. Navy veteran turned software developer, navigating the world of full-stack development!* ⚡  
 
 ---
 
-## 💻 **Tech Journey**
-- ✅ **Certified in HTML & CSS** – Solid foundation in front-end development.
-- 📚 **Currently learning** JavaScript, MySQL, and Node.js to expand my skill set.
-- 🔥 Passionate about building efficient, scalable, and innovative applications.
+## 🖥️ **About Me**
+🔹 **Certified in HTML & CSS** – Strong front-end foundation  
+🔹 **Currently Learning** JavaScript, MySQL, Node.js  
+🔹 **Passionate about tech, problem-solving & building impactful applications**  
 
 ---
 
-## 🚀 **GitHub Stats**
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=aduran001&show_icons=true&theme=radical" alt="GitHub Stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aduran001&layout=compact&theme=radical" alt="Top Languages">
+## 🎨 **Adding a Background to Your README**
+While GitHub README files don’t support direct background images, you can **host an image** and place it within a **styled section** like this:
+
+```html
+<div style="background-image: url('https://your-background-image-url'); padding: 20px; border-radius: 10px;">
+    <h2 style="color: white; text-align: center;">Welcome to My Portfolio</h2>
 </div>
-
----
-
-## 🎯 **Goals & Aspirations**
-I am committed to mastering the full-stack ecosystem, contributing to open-source projects, and continuously improving my coding skills. My goal is to create impactful applications and collaborate with like-minded developers.
 
 ---
 
